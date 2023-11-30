@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple CI/CD Pipeline Project !!!! </h1>
-<h2> Deploying on a Tomcat server using Maven, Jenkins, and GitHub for Xabiere Designs </h2>
-<h2> Excited to have you on this journey with me </h2>
+<h1> Hello Team Welcome to Simple CI/CD Project </h1>
+
+<h2> This Project will Integrate Jenkins with Maven and GitHub to build our Code onto a Tomcat server </h2>
+
+<h3> Thanks for Embarking on the Journey with me, Let's Get Started </h3> 
